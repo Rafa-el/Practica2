@@ -16,13 +16,13 @@ namespace Prac2
 			switch (opc) {
 
 			case 1:
-				{	
-					Console.WriteLine(ob.inicia());
+				{
+					ob.inicia();
 				}break;
 			
 			case 2:
 				{
-					
+					ob.crono();
 				}break;
 
 			

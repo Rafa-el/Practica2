@@ -2,8 +2,18 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Prac2/Main.cs">
     <Files>
-      <File FileName="Prac2/Main.cs" Line="13" Column="4" />
+      <File FileName="Prac2/Main.cs" Line="24" Column="6" />
+      <File FileName="Prac2/Datos.cs" Line="11" Column="23" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Prac2" expanded="True">
+            <Node name="Main.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
